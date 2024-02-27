@@ -1,0 +1,25 @@
+img{
+    width:50%;
+    padding :16px;
+}
+.main-wrapper{
+    display: flex;
+    
+    
+}
+.logo{
+    width:15%
+}
+
+.socials{
+    width: 30%;
+}
+.container{
+    border: none;
+    border-left: 2px solid purple;
+    padding: 16px;
+}
+#submit{
+    color: white;
+    background-color: blue;
+}
